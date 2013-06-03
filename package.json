@@ -1,11 +1,12 @@
 {
 	"name": "comp-soc.com",
-	"description": "An example project skeleton",
-	"homepage": "http://example.org",
-	"copyright": "Copyright © 2000, Your Name",
+	"description": "CompSoc Website",
+	"homepage": "http://www.comp-soc.com",
+	"copyright": "Copyright © 2013, The CompSoc team",
 	"authors": [
-		"Your Name"
+		"Rikki Guy <rikki[DOT]guy[AT]gmail[DOT]com>"
 	],
 	"dependencies": {
+        "vibe-d": ">=0.7.15"
 	}
 }
